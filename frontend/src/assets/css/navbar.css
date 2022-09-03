@@ -1,0 +1,15 @@
+
+.dropdown-menu a{
+    text-decoration: none !important;
+    color: black;
+  }
+  .dropdown-menu a :hover{
+    color: black !important;
+  }
+.dropitem:hover{
+    color: black !important;
+}  
+.nav a{
+  color: white;
+  text-decoration: none;
+}
